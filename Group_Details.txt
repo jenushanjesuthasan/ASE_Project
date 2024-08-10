@@ -1,0 +1,53 @@
+Ifran
+
+Taxi Reservation Page
+
+Booking Confirmation Page
+Booking History Page
+Rating and Feedback Page
+Profile Page
+Payment Processing Page
+
+Ilham
+
+Additional Screens (if needed)
+
+About Us Page
+Contact Us Page
+Terms and Conditions Page
+Privacy Policy Page
+Help and Support Page
+
+
+Rizni
+
+Common Screens
+
+Forgot Password Page
+Reset Password Page
+Notifications Page
+Settings Page
+
+Operator Screens
+
+Operator Login Page
+Manual Booking Page
+Operator Dashboard
+Booking Details Page
+
+Jenu
+
+Passenger Screens
+
+Home Page
+User Registration Page
+Login Page
+Passenger Dashboard
+
+Driver Screens
+Driver Registration Page
+Driver Login Page
+Driver Dashboard
+Availability Management Page
+Trip History Page
+Profile Page
